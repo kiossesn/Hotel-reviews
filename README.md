@@ -1,4 +1,5 @@
 # Hotel-reviews
+>This is a simple application for hotel uploads and reviews. The project contains API, GUI and test files (jUnit) for the API.
 
 **### Set Up**
 >Run SetUp.java the first time you are using the system.
