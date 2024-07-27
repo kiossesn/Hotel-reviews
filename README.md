@@ -1,9 +1,10 @@
 # Hotel-reviews
->This is a simple application for hotel uploads and reviews written in Java. The project contains API, GUI and test files (jUnit) for the API.
+>This is a simple application for hotel uploads and reviews written in Java.\
+>The project contains API, GUI and test files (jUnit) for the API.
 
 **### Set Up**
->Run SetUp.java the first time you are using the system.
-In this file there is the main function that initializes all the claasses and saves some necessary default information in the system files.
+>Run SetUp.java the first time you are using the system.\
+>In this file there is the main function that initializes all the claasses and saves some necessary default information in the system files.
 
 **### Run**
 >After the set up, run Login.java (GUI directory) to start the application.
